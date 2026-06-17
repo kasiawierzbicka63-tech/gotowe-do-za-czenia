@@ -1,0 +1,7 @@
+streamlit
+python-docx
+beautifulsoup4
+lxml
+requests
+pillow
+staticmap
